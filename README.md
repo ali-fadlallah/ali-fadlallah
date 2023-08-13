@@ -16,7 +16,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I am currently working as a Mobile Application Developer (iOS/Android) and a Software Engineer, contributing to both frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - 💬 Ask me about my experience with JavaScript, ReactJS,PHP and Laravel, or anything related to web development.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Ali%20Fadlallah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alifadlallah)
