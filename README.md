@@ -18,7 +18,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-alifadlallah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alifadlallah)
+- 💬 Ask me about my experience with JavaScript, ReactJS,PHP and Laravel, or anything related to web development.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Ali%20Fadlallah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alifadlallah)
 
 ---
 
