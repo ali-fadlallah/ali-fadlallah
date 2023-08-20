@@ -42,6 +42,7 @@ I am a Fullstack developer & Mobile application developer <img src="https://medi
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="android" **alt="android" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="apple" **alt="apple" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" **alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" **alt="tailwindcss" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" **alt="jquery" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" **alt="laravel" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="xcode" **alt="xcode" width="40" height="40"/>&nbsp;
