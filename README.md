@@ -49,10 +49,3 @@ I am a Fullstack developer & Mobile application developer <img src="https://medi
 
 
 </p>
-
----
-
-### 🔥 &nbsp; My Stats :
- <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ali-fadlallah)](https://git.io/streak-stats) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-fadlallah&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
